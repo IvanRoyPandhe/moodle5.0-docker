@@ -1,0 +1,70 @@
+version: '3.8'
+
+services:
+  moodle:
+    build: .
+    container_name: moodle-app
+    ports:
+      - "8080:80"
+    volumes:
+      - ./moodle:/var/www/html
+      - moodledata:/var/www/moodledata
+    depends_on:
+      - db
+    environment:
+      - MOODLE_DATABASE_TYPE=pgsql
+      - MOODLE_DATABASE_HOST=db
+      - MOODLE_DATABASE_PORT=5432
+      - MOODLE_DATABASE_NAME=moodle
+      - MOODLE_DATABASE_USER=moodle
+      - MOODLE_DATABASE_PASSWORD=moodle_password
+      - MOODLE_SITE_FULLNAME=Moodle Site
+      - MOODLE_SITE_SHORTNAME=Moodle
+      - MOODLE_ADMIN_USER=admin
+      - MOODLE_ADMIN_PASSWORD=Admin_password1
+      - MOODLE_ADMIN_EMAIL=admin@example.com
+    restart: unless-stopped
+
+  db:
+    image: postgres:14
+    container_name: moodle-db
+    environment:
+      - POSTGRES_DB=moodle
+      - POSTGRES_USER=moodle
+      - POSTGRES_PASSWORD=moodle_password
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  # Uncomment if you prefer MySQL/MariaDB instead of PostgreSQL
+  # db:
+  #   image: mysql:8.4
+  #   container_name: moodle-db
+  #   command: --default-authentication-plugin=mysql_native_password
+  #   environment:
+  #     - MYSQL_DATABASE=moodle
+  #     - MYSQL_USER=moodle
+  #     - MYSQL_PASSWORD=moodle_password
+  #     - MYSQL_ROOT_PASSWORD=root_password
+  #   volumes:
+  #     - mysql_data:/var/lib/mysql
+  #   restart: unless-stopped
+
+  # Alternative MariaDB configuration
+  # db:
+  #   image: mariadb:10.11
+  #   container_name: moodle-db
+  #   environment:
+  #     - MYSQL_DATABASE=moodle
+  #     - MYSQL_USER=moodle
+  #     - MYSQL_PASSWORD=moodle_password
+  #     - MYSQL_ROOT_PASSWORD=root_password
+  #   volumes:
+  #     - mariadb_data:/var/lib/mysql
+  #   restart: unless-stopped
+
+volumes:
+  moodledata:
+  postgres_data:
+  # mysql_data:
+  # mariadb_data:
