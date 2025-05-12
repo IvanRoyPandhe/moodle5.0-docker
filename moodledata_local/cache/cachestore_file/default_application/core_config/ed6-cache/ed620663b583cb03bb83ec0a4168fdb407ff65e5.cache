@@ -1,0 +1,53 @@
+a:45:{s:10:"brandcolor";s:7:"#590091";s:18:"disableteacherspic";s:1:"1";s:19:"displaymarketingbox";s:1:"1";s:23:"enableclassicbreadcrumb";s:1:"0";s:17:"enablecourseindex";s:1:"1";s:8:"facebook";s:0:"";s:8:"faqcount";s:1:"0";s:7:"favicon";s:26:"/Desain tanpa judul(1).ico";s:8:"fontsite";s:6:"Roboto";s:15:"googleanalytics";s:0:"";s:6:"hvpcss";s:0:"";s:9:"instagram";s:0:"";s:8:"linkedin";s:0:"";s:10:"loginbgimg";s:21:"/wallhaven-lm35vp.jpg";s:4:"logo";s:23:"/Desain tanpa judul.png";s:4:"mail";s:0:"";s:17:"marketing1content";s:1207:"<h3 class="" data-start="118" data-end="172">🚀 <strong data-start="125" data-end="172">Launch Your DevOps Journey Beyond the Stars</strong></h3>
+<p data-start="174" data-end="588" class="">Siap menjelajahi dunia DevOps dengan cara yang beda dari yang lain?<br data-start="241" data-end="244">Di kursus <strong data-start="254" data-end="271">DevOps Galaxy</strong>, kamu nggak cuma belajar teori — kamu ikut misi. Setiap topik dirancang seperti level dalam game, lengkap dengan tantangan nyata di dunia IT modern. Mulai dari membangun pipeline CI/CD, mengatur kontainer Docker, sampai menguasai Kubernetes dan Terraform — semua dikemas dalam gaya belajar yang seru dan bikin nagih.</p>
+<p data-start="590" data-end="833" class="">Belajar nggak harus membosankan. Dengan pendekatan <em data-start="641" data-end="652">game-like</em> dan nuansa luar angkasa, kamu akan merasa seperti seorang <em data-start="711" data-end="727">space engineer</em> yang sedang menaklukkan rintangan satu per satu, sambil meningkatkan skill DevOps-mu ke level berikutnya.</p>
+<p data-start="835" data-end="881" class="">🌌 <strong data-start="838" data-end="881">Bergabunglah dan mulai misimu hari ini!</strong></p>";s:17:"marketing1heading";s:43:"Launch Your DevOps Journey Beyond the Stars";s:14:"marketing1icon";s:6:"/7.png";s:17:"marketing2content";s:1550:"<h3 class="" data-start="101" data-end="127">🕹️ <strong data-start="109" data-end="127">Play to Deploy</strong></h3>
+<p data-start="129" data-end="279" class="">Belajar DevOps nggak harus tegang dan penuh teori. Di sini, kamu akan merasakan sensasi belajar yang beda — seperti main game strategi luar angkasa.</p>
+<p data-start="281" data-end="372" class="">Setiap modul kami rancang sebagai <em data-start="315" data-end="332">misi interaktif</em>, lengkap dengan skenario dunia nyata:</p>
+<ul data-start="373" data-end="599">
+<li class="" data-start="373" data-end="452">
+<p data-start="375" data-end="452" class="">🔧 Men-deploy aplikasi ke server seperti sedang mengatur kapal luar angkasa</p>
+</li>
+<li class="" data-start="453" data-end="514">
+<p data-start="455" data-end="514" class="">🪐 Mengelola cluster Kubernetes seperti mengontrol armada</p>
+</li>
+<li class="" data-start="515" data-end="599">
+<p data-start="517" data-end="599" class="">🛰️ Membangun pipeline otomatisasi layaknya sistem navigasi pesawat luar angkasa</p>
+</li>
+</ul>
+<p data-start="601" data-end="801" class="">Kamu nggak cuma duduk dan nonton, tapi ikut <em data-start="645" data-end="654">bermain</em> dan <em data-start="659" data-end="674">mengendalikan</em> sendiri semua prosesnya. Dan tentu saja, kamu akan mendapatkan XP, badge, dan progress tracker yang bikin semangat naik terus.</p>
+<p data-start="803" data-end="854" class="">🎮 <strong data-start="806" data-end="852">Siap naik level dan jadi DevOps Commander?</strong></p>";s:17:"marketing2heading";s:22:"🕹️ Play to Deploy";s:14:"marketing2icon";s:26:"/Desain tanpa judul(2).png";s:17:"marketing3content";s:1116:"<h3 class="" data-start="127" data-end="164">🌌 <strong data-start="134" data-end="164">From Zero to SpaceOps Hero</strong></h3>
+<p data-start="166" data-end="190" class="">Atau alternatif lainnya:</p>
+<ul data-start="191" data-end="422">
+<li class="" data-start="191" data-end="251">
+<p data-start="193" data-end="251" class=""><strong data-start="193" data-end="249">🧑‍🚀 Train Like a Space Engineer, Deploy Like a Pro</strong></p>
+</li>
+<li class="" data-start="252" data-end="319">
+<p data-start="254" data-end="319" class=""><strong data-start="254" data-end="317">🚀 Your Journey from Rookie to Rocket Scientist (of DevOps)</strong></p>
+</li>
+<li class="" data-start="320" data-end="368">
+<p data-start="322" data-end="368" class=""><strong data-start="322" data-end="366">🎯 DevOps Skill Tree: Unlock Every Level</strong></p>
+</li>
+<li class="" data-start="369" data-end="422">
+<p data-start="371" data-end="422" class=""><strong data-start="371" data-end="420">📦 From Docker to Orbit: One Module at a Time</strong></p>
+</li>
+</ul>
+<hr class="" data-start="424" data-end="427">";s:17:"marketing3heading";s:31:"🌌 From Zero to SpaceOps Hero";s:14:"marketing3icon";s:9:"/dfdf.png";s:17:"marketing4content";s:1329:"<p data-start="127" data-end="204" class="">Di dunia DevOps, automation adalah kunci — dan kamu akan memegang kendalinya.</p>
+<p data-start="206" data-end="416" class="">Lewat kursus ini, kamu akan belajar membangun alur kerja DevOps secara end-to-end, mulai dari coding, testing, hingga deployment otomatis ke cloud. Setiap langkah kamu latih lewat simulasi dunia nyata, seperti:</p>
+<ul data-start="418" data-end="605">
+<li class="" data-start="418" data-end="471">
+<p data-start="420" data-end="471" class="">🚀 Membangun CI/CD pipeline dengan GitHub Actions</p>
+</li>
+<li class="" data-start="472" data-end="551">
+<p data-start="474" data-end="551" class="">🧱 Menyiapkan container dengan Docker &amp; mengelola service dengan Kubernetes</p>
+</li>
+<li class="" data-start="552" data-end="605">
+<p data-start="554" data-end="605" class="">🪐 Menyusun infrastruktur otomatis dengan Terraform</p>
+</li>
+</ul>
+<p data-start="607" data-end="770" class="">Kamu akan merasa seperti kapten kapal luar angkasa yang mengatur sistem kompleks agar berjalan mulus. Bukan hanya paham konsep, tapi <strong data-start="740" data-end="769">siap kerja di dunia nyata</strong>.</p>
+<p data-start="772" data-end="815" class="">⚙️ <strong data-start="775" data-end="815">Saatnya kamu taklukkan dunia DevOps.</strong></p>";s:17:"marketing4heading";s:30:"🔧 Build. Automate. Conquer.";s:14:"marketing4icon";s:13:"/dfdf (4).png";s:16:"marketingcontent";s:540:"<hr class="" data-start="762" data-end="765">
+<h3 class="" data-start="767" data-end="802">🚀 From Zero to SpaceOps Hero</h3>
+<p data-start="803" data-end="1086" class=""><strong data-start="803" data-end="847">Nggak cuma teori. Kamu langsung praktik.</strong><br data-start="847" data-end="850">Kami percaya DevOps harus hands-on. Di kursus ini, kamu akan langsung membangun dan mengelola pipeline, menyusun deployment otomatis, dan mengatur infrastruktur dengan alat-alat seperti GitHub Actions, Docker, Kubernetes, dan Terraform.</p>";s:16:"marketingheading";s:36:"🛰️ Welcome to the DevOps Galaxy";s:6:"mobile";s:0:"";s:16:"numbersfrontpage";s:1:"1";s:23:"numbersfrontpagecontent";s:784:"<h3 class="" data-start="109" data-end="165">5️⃣ <strong data-start="117" data-end="165">Trusted by 25,000+ Aspiring DevOps Engineers</strong></h3>
+<p data-start="167" data-end="497" class="">Dengan banyak modul interaktif dan konten yang terus berkembang, kamu bisa membangun skill DevOps-mu tanpa perlu background coding yang kuat.<br data-start="308" data-end="311">🚀 Bangun portofolio DevOps pertamamu hanya dalam hitungan minggu, bukan bulan.<br data-start="390" data-end="393">📦 Dengan sistem belajar berbasis misi dan visual ala game, semuanya jadi lebih seru dan mudah dipahami.</p>
+<p data-start="499" data-end="587" class="">Bergabunglah dengan ribuan peserta lain yang sudah naik level bersama <strong data-start="569" data-end="586">DevOps Galaxy</strong>.</p>";s:6:"preset";s:12:"default.scss";s:11:"presetfiles";s:0:"";s:4:"scss";s:0:"";s:7:"scsspre";s:0:"";s:18:"secondarymenucolor";s:7:"#031896";s:11:"slidercount";s:1:"0";s:8:"telegram";s:0:"";s:7:"twitter";s:0:"";s:7:"version";s:10:"2025041602";s:7:"website";s:0:"";s:8:"whatsapp";s:0:"";s:7:"youtube";s:0:"";}

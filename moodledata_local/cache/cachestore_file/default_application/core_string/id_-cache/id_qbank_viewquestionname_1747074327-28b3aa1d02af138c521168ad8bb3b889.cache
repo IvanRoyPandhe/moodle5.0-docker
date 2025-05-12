@@ -1,0 +1,2 @@
+a:6:{s:10:"pluginname";s:15:"Lihat nama soal";s:16:"privacy:metadata";s:71:"Pengaya Lihat nama soal bank soal tidak menyimpan data pribadi apa pun.";s:25:"questionidnumbercondition";s:19:"Nomor ID pertanyaan";s:21:"questionnamecondition";s:9:"Nama soal";s:23:"edit_question_name_hint";s:14:"Edit nama soal";s:24:"edit_question_name_label";s:28:"Nilai baru untuk {$a->name}
+";}

@@ -1,0 +1,70 @@
+username,password,firstname,lastname,email,city,country,course1,role1,course2,role2
+admin1,Pass123!,Admin,User,admin1@example.com,New York,US,Course101,manager,,
+teacher1,Pass123!,John,Smith,teacher1@example.com,Boston,US,Course101,editingteacher,Course102,editingteacher
+teacher2,Pass123!,Mary,Johnson,teacher2@example.com,Chicago,US,Course101,editingteacher,Course103,editingteacher
+teacher3,Pass123!,Robert,Williams,teacher3@example.com,San Francisco,US,Course102,editingteacher,Course104,editingteacher
+teacher4,Pass123!,Patricia,Brown,teacher4@example.com,Seattle,US,Course103,editingteacher,Course105,editingteacher
+teacher5,Pass123!,Michael,Davis,teacher5@example.com,Austin,US,Course104,editingteacher,Course106,editingteacher
+assistant1,Pass123!,James,Miller,assistant1@example.com,Denver,US,Course101,teacher,Course102,teacher
+assistant2,Pass123!,Jennifer,Wilson,assistant2@example.com,Portland,US,Course103,teacher,Course104,teacher
+assistant3,Pass123!,David,Moore,assistant3@example.com,Miami,US,Course105,teacher,Course106,teacher
+student1,Pass123!,Sarah,Taylor,student1@example.com,Los Angeles,US,Course101,student,Course102,student
+student2,Pass123!,Thomas,Anderson,student2@example.com,Philadelphia,US,Course101,student,Course103,student
+student3,Pass123!,Jessica,Thomas,student3@example.com,Houston,US,Course101,student,Course104,student
+student4,Pass123!,Charles,Jackson,student4@example.com,Phoenix,US,Course101,student,Course105,student
+student5,Pass123!,Lisa,White,student5@example.com,Dallas,US,Course101,student,Course106,student
+student6,Pass123!,Daniel,Harris,student6@example.com,Atlanta,US,Course102,student,Course103,student
+student7,Pass123!,Nancy,Martin,student7@example.com,Detroit,US,Course102,student,Course104,student
+student8,Pass123!,Paul,Thompson,student8@example.com,San Diego,US,Course102,student,Course105,student
+student9,Pass123!,Karen,Garcia,student9@example.com,Sacramento,US,Course102,student,Course106,student
+student10,Pass123!,Mark,Martinez,student10@example.com,Orlando,US,Course103,student,Course104,student
+student11,Pass123!,Betty,Robinson,student11@example.com,Cleveland,US,Course103,student,Course105,student
+student12,Pass123!,Donald,Clark,student12@example.com,Minneapolis,US,Course103,student,Course106,student
+student13,Pass123!,Helen,Rodriguez,student13@example.com,Pittsburgh,US,Course104,student,Course105,student
+student14,Pass123!,George,Lewis,student14@example.com,Cincinnati,US,Course104,student,Course106,student
+student15,Pass123!,Sandra,Lee,student15@example.com,Kansas City,US,Course105,student,Course106,student
+student16,Pass123!,Steven,Walker,student16@example.com,Nashville,US,Course101,student,,
+student17,Pass123!,Carol,Hall,student17@example.com,Columbus,US,Course102,student,,
+student18,Pass123!,Joseph,Allen,student18@example.com,Indianapolis,US,Course103,student,,
+student19,Pass123!,Ruth,Young,student19@example.com,Charlotte,US,Course104,student,,
+student20,Pass123!,Edward,Hernandez,student20@example.com,Baltimore,US,Course105,student,,
+student21,Pass123!,Sharon,King,student21@example.com,St. Louis,US,Course106,student,,
+student22,Pass123!,Andrew,Wright,student22@example.com,Raleigh,US,Course101,student,,
+student23,Pass123!,Donna,Lopez,student23@example.com,New Orleans,US,Course102,student,,
+student24,Pass123!,Ryan,Hill,student24@example.com,Salt Lake City,US,Course103,student,,
+student25,Pass123!,Kimberly,Scott,student25@example.com,Tucson,US,Course104,student,,
+student26,Pass123!,Jeffrey,Green,student26@example.com,Albuquerque,US,Course105,student,,
+student27,Pass123!,Amy,Adams,student27@example.com,Las Vegas,US,Course106,student,,
+student28,Pass123!,Gary,Baker,student28@example.com,Oklahoma City,US,Course101,student,,
+student29,Pass123!,Michelle,Gonzalez,student29@example.com,Tulsa,US,Course102,student,,
+student30,Pass123!,Timothy,Nelson,student30@example.com,Omaha,US,Course103,student,,
+student31,Pass123!,Deborah,Carter,student31@example.com,Memphis,US,Course104,student,,
+student32,Pass123!,Eric,Mitchell,student32@example.com,Louisville,US,Course105,student,,
+student33,Pass123!,Laura,Perez,student33@example.com,Richmond,US,Course106,student,,
+student34,Pass123!,Stephen,Roberts,student34@example.com,Boise,US,Course101,student,,
+student35,Pass123!,Rebecca,Turner,student35@example.com,Honolulu,US,Course102,student,,
+student36,Pass123!,Kevin,Phillips,student36@example.com,Anchorage,US,Course103,student,,
+student37,Pass123!,Cynthia,Campbell,student37@example.com,Providence,US,Course104,student,,
+student38,Pass123!,Brian,Parker,student38@example.com,Fargo,US,Course105,student,,
+student39,Pass123!,Kathleen,Evans,student39@example.com,Burlington,US,Course106,student,,
+student40,Pass123!,Jason,Edwards,student40@example.com,Santa Fe,US,Course101,student,,
+student41,Pass123!,Angela,Collins,student41@example.com,Charleston,US,Course102,student,,
+student42,Pass123!,Matthew,Stewart,student42@example.com,Savannah,US,Course103,student,,
+student43,Pass123!,Melissa,Sanchez,student43@example.com,Mobile,US,Course104,student,,
+student44,Pass123!,Anthony,Morris,student44@example.com,Spokane,US,Course105,student,,
+student45,Pass123!,Brenda,Rogers,student45@example.com,Eugene,US,Course106,student,,
+student46,Pass123!,Richard,Reed,student46@example.com,Madison,US,Course101,student,,
+student47,Pass123!,Pamela,Cook,student47@example.com,Albany,US,Course102,student,,
+student48,Pass123!,Kenneth,Morgan,student48@example.com,Hartford,US,Course103,student,,
+student49,Pass123!,Nicole,Bell,student49@example.com,Cheyenne,US,Course104,student,,
+student50,Pass123!,Samuel,Murphy,student50@example.com,Juneau,US,Course105,student,,
+parent1,Pass123!,William,Cooper,parent1@example.com,Tampa,US,Course101,parent,,
+parent2,Pass123!,Elizabeth,Richardson,parent2@example.com,Buffalo,US,Course102,parent,,
+parent3,Pass123!,Gregory,Cox,parent3@example.com,Rochester,US,Course103,parent,,
+parent4,Pass123!,Christine,Howard,parent4@example.com,Syracuse,US,Course104,parent,,
+parent5,Pass123!,Joshua,Ward,parent5@example.com,Tacoma,US,Course105,parent,,
+manager1,Pass123!,Amanda,Torres,manager1@example.com,Olympia,US,Course101,manager,,
+manager2,Pass123!,Dennis,Peterson,manager2@example.com,Salem,US,Course102,manager,,
+coursecreator1,Pass123!,Carolyn,Gray,coursecreator1@example.com,Montpelier,US,Course101,coursecreator,,
+coursecreator2,Pass123!,Jerry,Ramirez,coursecreator2@example.com,Concord,US,Course102,coursecreator,,
+guest1,Pass123!,Guest,User,guest1@example.com,Anywhere,US,Course101,guest,,

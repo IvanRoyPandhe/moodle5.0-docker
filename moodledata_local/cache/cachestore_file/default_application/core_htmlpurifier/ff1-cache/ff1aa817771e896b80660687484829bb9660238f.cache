@@ -1,0 +1,23 @@
+s:1169:"<p>Course <em>DevOps</em> ini dirancang untuk memberikan pemahaman menyeluruh tentang praktik, tools, dan budaya DevOps yang mendukung kolaborasi antara tim pengembangan (Development) dan operasi (Operations). Dalam course ini, peserta akan belajar bagaimana membangun pipeline CI/CD, mengelola infrastruktur dengan Infrastructure as Code (IaC), melakukan automasi deployment, serta memahami konsep monitoring dan security dalam lingkungan DevOps.</p>
+<p>Topik yang dibahas antara lain:</p>
+<ul>
+<li>
+<p>Pengenalan DevOps dan budaya kolaboratif</p>
+</li>
+<li>
+<p>Continuous Integration &amp; Continuous Deployment (CI/CD)</p>
+</li>
+<li>
+<p>Tools populer seperti Git, Docker, Jenkins, GitHub Actions, dan Kubernetes</p>
+</li>
+<li>
+<p>Infrastruktur sebagai Kode dengan Terraform dan Ansible</p>
+</li>
+<li>
+<p>Monitoring dan Logging dengan Prometheus, Grafana, dan ELK Stack</p>
+</li>
+<li>
+<p>Praktik keamanan (<em>DevSecOps</em>) dalam siklus DevOps</p>
+</li>
+</ul>
+<p>Course ini cocok untuk mahasiswa IT, sysadmin, developer, maupun siapa saja yang ingin memahami bagaimana membangun software dan infrastruktur yang cepat, handal, dan scalable.</p>";

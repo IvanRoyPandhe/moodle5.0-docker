@@ -17,6 +17,7 @@ RUN apt-get update && apt-get install -y \
     libonig-dev \
     libcurl4-openssl-dev \
     libsodium-dev \
+    locales \
     && rm -rf /var/lib/apt/lists/*
 
 # Install PHP extensions
@@ -41,6 +42,16 @@ RUN apt-get update && apt-get install -y postgresql-client && rm -rf /var/lib/ap
 
 # Install Composer
 RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+
+# Configure locales
+RUN sed -i -e 's/# en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /etc/locale.gen && \
+    sed -i -e 's/# en_AU.UTF-8 UTF-8/en_AU.UTF-8 UTF-8/' /etc/locale.gen && \
+    sed -i -e 's/# id_ID.UTF-8 UTF-8/id_ID.UTF-8 UTF-8/' /etc/locale.gen && \
+    locale-gen
+
+ENV LANG en_AU.UTF-8
+ENV LANGUAGE en_AU:en
+ENV LC_ALL en_AU.UTF-8
 
 # Configure PHP
 RUN { \

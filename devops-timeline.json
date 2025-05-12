@@ -1,0 +1,170 @@
+{
+  "title": "DevOps Timeline",
+  "timeline": {
+    "headline": "Evolution of DevOps",
+    "text": "A timeline showing the key milestones in DevOps history",
+    "type": "default",
+    "date": [
+      {
+        "startDate": "2007",
+        "headline": "The Term 'DevOps' Emerges",
+        "text": "The concept of DevOps began to form as IT operations and software development communities raised concerns about the traditional software development model.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2008",
+        "headline": "Agile Infrastructure and Operations",
+        "text": "Patrick Debois and Andrew Shafer discuss 'Agile Infrastructure' at the Agile Conference, laying groundwork for DevOps.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2009",
+        "headline": "First DevOpsDays Conference",
+        "text": "Patrick Debois organizes the first DevOpsDays conference in Ghent, Belgium, officially coining the term 'DevOps'.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2010",
+        "headline": "Continuous Delivery Book Published",
+        "text": "Jez Humble and David Farley publish 'Continuous Delivery', a foundational text for DevOps practices.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2011",
+        "headline": "Infrastructure as Code Gains Popularity",
+        "text": "Tools like Chef and Puppet gain widespread adoption, enabling infrastructure automation.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2013",
+        "headline": "Docker Revolutionizes Containerization",
+        "text": "Docker is released, making containers accessible and revolutionizing how applications are packaged and deployed.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2014",
+        "headline": "Microservices Architecture",
+        "text": "Microservices architecture becomes mainstream, complementing DevOps practices with more modular application design.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2015",
+        "headline": "Kubernetes Released",
+        "text": "Google releases Kubernetes, which becomes the standard for container orchestration.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2016",
+        "headline": "DevSecOps Emerges",
+        "text": "Security becomes integrated into the DevOps pipeline, giving rise to DevSecOps.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2017",
+        "headline": "Cloud-Native Applications",
+        "text": "The Cloud Native Computing Foundation (CNCF) gains prominence, promoting cloud-native technologies.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2018",
+        "headline": "GitOps Methodology",
+        "text": "GitOps emerges as a practice using Git as the single source of truth for declarative infrastructure and applications.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2019",
+        "headline": "AIOps Gains Traction",
+        "text": "Artificial Intelligence for IT Operations (AIOps) begins to be integrated into DevOps practices.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2020",
+        "headline": "Remote DevOps Collaboration",
+        "text": "COVID-19 pandemic accelerates remote collaboration tools and practices for DevOps teams.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2021",
+        "headline": "Platform Engineering",
+        "text": "Platform engineering emerges as a discipline focused on building self-service capabilities for developers.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2022",
+        "headline": "DevOps for Sustainability",
+        "text": "Green DevOps practices gain attention, focusing on sustainable and efficient resource usage.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      },
+      {
+        "startDate": "2023",
+        "headline": "AI-Enhanced DevOps",
+        "text": "Generative AI and machine learning become integrated into DevOps workflows for code generation, testing, and operations.",
+        "asset": {
+          "media": "",
+          "credit": "",
+          "caption": ""
+        }
+      }
+    ]
+  }
+}
