@@ -8,7 +8,7 @@ services:
       - "8080:80"
     volumes:
       - ./moodle:/var/www/html
-      - ./moodledata_local:/var/www/moodledata
+      - moodledata:/var/www/moodledata
     depends_on:
       - db
     environment:
@@ -64,6 +64,7 @@ services:
   #   restart: unless-stopped
 
 volumes:
+  moodledata:
   postgres_data:
   # mysql_data:
   # mariadb_data:
